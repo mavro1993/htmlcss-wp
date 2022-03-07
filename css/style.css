@@ -16,7 +16,7 @@ html {
     margin: 20px auto;
 }
 
-.logo {
+.logo > img {
     width: auto;
     height: 60px;
     padding-right: 1em;
@@ -55,6 +55,11 @@ ul {
 ul li {
     display: inline-block;
 }
+
+.list ul li {
+    text-decoration: none;
+}
+
 
 .container-3 {
     width: 1024px;
@@ -116,3 +121,4 @@ h4 {
 .heart {
     color: red;
 }
+
