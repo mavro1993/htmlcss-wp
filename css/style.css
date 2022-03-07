@@ -38,18 +38,17 @@ html {
 .content {
     color: white;
     position: absolute;
-    text-transform: uppercase;
     bottom: 60px;
     left: 40px;
-}
-
-.hidden {
-    overflow: hidden;
 }
 
 ul {
     list-style: none;
     padding: 10px;
+}
+
+.uppercase {
+    text-transform: uppercase;
 }
 
 ul li {
@@ -128,6 +127,6 @@ h4 {
 
 .right {
     position: absolute;
-    top: 200px;
+    top: 220px;
     right: 0px;
 }
