@@ -56,10 +56,10 @@ ul li {
     display: inline-block;
 }
 
-.list ul li {
+ ul li a {
     text-decoration: none;
+    color: grey;
 }
-
 
 .container-3 {
     width: 1024px;
