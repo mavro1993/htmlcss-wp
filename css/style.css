@@ -91,10 +91,6 @@ ul li {
     margin: 20px auto;
 } 
 
-.center img {
-    object-fit: cover;
-}
-
 .clearfix::after {
     content: "";
     display: table;
